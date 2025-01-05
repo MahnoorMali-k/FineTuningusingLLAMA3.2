@@ -35,9 +35,9 @@ Follow these steps to fine-tune LLAMA 3.2 using QLoRA and LoRA techniques:
 ## Project Structure
 
 ```plaintext
-Fine-Tuning-LLAMA3.2/
-├── LLAMA3.2_FineTuning.ipynb   # Colab notebook for fine-tuning and evaluation
-├── dataset/                    # Dataset files for the fine-tuning task
+FineTuningusingLLAMA3.2/
+├── LLAMA.ipynb   # Colab notebook for fine-tuning and evaluation
+├── Dataset/                    # Dataset files for the fine-tuning task
 ├── README.md                   # Project documentation
 ```
 
